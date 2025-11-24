@@ -1,6 +1,6 @@
 ## Diana is: 
-- a Signal :sound:, Image :framed_picture: processing and Computer Vision :camera: engineer.
-- an applied mathematitian :triangular_ruler:.
+- a Signal , Image processing and Computer Vision engineer.
+- an applied mathematitian :triangular_ruler: 💻.
 - a polyglot :gb: :de: :it: :ru:, always passionate to learn something new about languages.
 - a hobbyist digital and traditional artist :art: and a movie gourmet :clapper:
 - an (italian, but not only) progressive rock fan :notes: :guitar:
